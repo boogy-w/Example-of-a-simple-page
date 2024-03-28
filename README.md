@@ -1,1 +1,1 @@
-# Example-of-a-simple-page
+# Пример простой страницы 
